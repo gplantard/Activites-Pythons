@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gplantard/Activites-Pythons/main?filepath=02%20-%20Image%20num%C3%A9rique%2FTraitement-image.ipynb)
